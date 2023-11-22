@@ -9,4 +9,50 @@ I like the process of developing functionality and website layout. I am a visual
 In the near future I plan to take courses to learn English and learn new technologies in Front-end.
 
 
+## 🛠 Hard skills
 
+Programming languages:
+- JavaScript
+- TypeScript 
+- C#
+- Java 
+- Python
+
+Libs:
+- ReactJS 
+- Redux
+- React Router
+- Material UI
+
+Databases:
+- MSSQL 
+- PL/SQL
+- PostgreSQL
+- MySQL 
+- SQLite
+
+Rest:
+- Html 
+- Css 
+- Scss
+- Pug
+- Webpack 
+- Jest 
+- GSAP
+- Styled Components
+- Figma 
+- Photoshop
+- React Native 
+- PyQt5
+- Docker 
+- Git 
+- OOP
+
+## 😎 Soft skills
+
+* I constantly work on myself and my knowledge
+* Every little thing is important to me
+* I approach assigned tasks conscientiously
+* I approach any questions and situations tactfully
+* I work hard towards my goals
+* I love challenges and work very hard
