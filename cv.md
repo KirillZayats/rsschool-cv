@@ -56,3 +56,20 @@ Rest:
 * I approach any questions and situations tactfully
 * I work hard towards my goals
 * I love challenges and work very hard
+
+## 😊 Facts about me
+
+* I have been involved in sports for more than 7 years
+* I print on a 3D printer
+* I make short videos
+* I like to watch TV series
+
+## 🤖 Important links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=cookiecutter&logoColor=white)](https://portfolio-a01ea.web.app/)
+[![github](https://img.shields.io/badge/github-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KirillZayats)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kiryl-zayats)
+[![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://t.me/zayatsKirill)
+
+
+
